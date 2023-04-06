@@ -16,22 +16,7 @@ Hack Cameras
 
 * python3 cam-hackers.py 
 
-# CAM-HACKERS
-
-<img src="https://github.com/rn509/Cam-Hackers/blob/master/cap01new.jpg">
-
-# CAM-HACKERS
-
-<img src="https://github.com/rn509/Cam-Hackers/blob/master/cap02new.jpg">
-
-# CAM-HACKERS
-
-<img src="https://github.com/rn509/Cam-Hackers/blob/master/camfoto.png">
-
-# CAM-HACKERS
-
-<img src="https://github.com/rn509/Cam-Hackers/blob/master/camfoto2.png">
-
+# Yah Kegunaan Tools Ini Buat Mencari Live Informasi Cctv Di Jalan Raya Yah Guys:v
 <h3> Paypal donations: </h3>
 
 * Dana : 081317498393 Ovo : 081317498393 Gopay : 081317498393
